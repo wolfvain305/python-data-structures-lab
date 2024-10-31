@@ -1,0 +1,11 @@
+    # your code here
+    # students = [
+    #         {"name":'Ashley'},
+    #         {"name":'Jeremy', "placement":"first_student"},
+    #         {"name":'Rider',"placement":"first_student"}
+    #             ]
+    # for student in students:
+    #     if "placement" in student:
+    #         print(f"Name: {student['name']}, Placement: {student['placement']}")
+    #     else:
+    #         print(f"Name: {student['name']}")
